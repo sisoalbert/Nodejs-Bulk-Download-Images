@@ -18,9 +18,11 @@ module.exports = [
   "https://example.com/image3.jpg",
   // add more URLs here
 ];
+```
 
 Run the script:
 `node index.js`
 
 The downloaded images will be saved in the project directory with filenames `image1.png`, `image2.png`, `image3.png`, etc.
-```
+
+##https://extract.pics/
