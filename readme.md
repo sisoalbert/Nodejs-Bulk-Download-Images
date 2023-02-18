@@ -7,8 +7,8 @@ This Node.js script can be used to bulk download a list of images from URLs prov
 1. Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/node-bulk-download-images.git
-cd node-bulk-download-images
+git clone https://github.com/sisoalbert/Nodejs-Bulk-Download-Images.git
+cd Nodejs-Bulk-Download-Images
 npm install
 
 Add URLs to urls.js file:
